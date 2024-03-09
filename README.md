@@ -36,7 +36,7 @@ In revolutionizing data entry at my family's business, I am boosting productivit
 ### Gaming Achievements
 While my primary focus now lies in becoming an elite Python developer, my competitive spirit drove me to remarkable feats in the realm of Esports. In League of Legends, I reached Diamond 2, consistently ranking in the top 1.5% in North America across multiple seasons. Similarly, in Counter-Strike: Global Offensive, I attained the prestigious Global Elite rank, competing against professional organizations such as iBuyPower, MouzEsports, and CLG in pick-up games (pugs) with my team during my serious gaming days. Leading teams, organizing practices, and participating in tournaments and scrims refined my leadership, organizational, and strategic thinking skills.
 
-Beyond gaming, my passion for history and strategy games enriched my knowledge of the world. Despite transitioning my focus to coding, I still enjoy casual gaming sessions with friends, fostering camaraderie and relaxation. Drawing inspiration from Stoicism, particularly from Marcus Aurelius, I learned to navigate the sometimes chaotic and toxic gaming environment with steadfastness and resilience. My commitment to addressing toxic behavior and maintaining sportsmanship has been consistent, reflecting my belief in the importance of integrity in all aspects of life.
+My passion for history and strategy outside of and in games enriched my knowledge of the world. Despite transitioning my focus to coding, I still enjoy casual gaming sessions with friends, fostering camaraderie and relaxation. Drawing inspiration from Stoicism, particularly from Marcus Aurelius, I learned to navigate the sometimes chaotic and toxic gaming environment with steadfastness and resilience. My commitment to addressing toxic behavior and maintaining sportsmanship has been consistent, reflecting my belief in the importance of integrity in all aspects of life.
 
 Moreover, my extensive knowledge of the Windows operating system—acquired through years of installing mods, tinkering with scripts, and troubleshooting PCs for both personal and business use—equipped me with a deep understanding of computer systems. As the designated IT expert in my family, I am relied upon to resolve any technical issues promptly and effectively, including those encountered in both of my parents' small businesses.
 
@@ -61,7 +61,3 @@ I am currently into weight lifting. I adhere to adequate nutrition and protein i
 I strive to pray daily and regularly increase my knowledge of the Creator, aligning myself with Him for my spiritual growth and anchor. Drawing on this connection, I seek support and guidance in every aspect of my being.
 
 ---
-
-Let's connect and share our experiences
-
-in the world of coding and automation!
