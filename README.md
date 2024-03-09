@@ -1,7 +1,3 @@
-Here's the refined and polished version with correct grammar, improved formatting, and separate paragraphs for better readability:
-
----
-
 # Welcome to My Profile
 
 ## About Me
@@ -68,4 +64,4 @@ I strive to pray daily and regularly increase my knowledge of the Creator, align
 
 Let's connect and share our experiences
 
- in the world of coding and automation!
+in the world of coding and automation!
